@@ -270,13 +270,8 @@ header{
     background-image: url(../img/morningset.jpg);
     background-color: rgba(255,255,255,0.5);
     background-blend-mode:lighten;
+    background-size:100%;
     
-}
-
-.ad-bg img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
 }
 
 .ad .contents{
@@ -518,12 +513,6 @@ small{
         background-color: rgba(255,255,255,0.5);
         background-blend-mode:lighten;
         
-    }
-    
-    .ad-bg img{
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
     }
     
     .ad .contents{
